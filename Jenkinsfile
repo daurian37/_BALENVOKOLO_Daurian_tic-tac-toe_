@@ -32,7 +32,7 @@ pipeline {
 }
         stage('Deploy/Deliver') {
             steps {
-                echo 'Deploying'
+                echo 'Deploying ....'
                 sh 'npm run build'
                 
             }
