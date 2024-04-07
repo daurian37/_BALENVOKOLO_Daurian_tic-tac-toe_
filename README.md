@@ -6,7 +6,7 @@ Il vous est possible de vous entre-aider mais votre rendu est **personnel** sauf
 ## Instructions
 
 ### Préparer son environnement
-- A partir du docker-compose disponible sur le repository [docker-gitlab-jenkins](https://github.com/June-Ruth/docker-gitlab-jenkins)
+- A partir du docker-compose disponible sur le repository [docker-gitlab-jenkins](https://github.com/June-Ruth/docker-gitlab-jenkins).
 
 ### Récupérer le projet en local
 - Clôner le projet en local
